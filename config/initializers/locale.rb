@@ -1,1 +1,1 @@
-Rails.application.config.i18n.default/locale = :ja
+Rails.application.config.i18n.default_locale = :ja
